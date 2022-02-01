@@ -10,7 +10,6 @@ function solution($N) {
 	});
 
     return strlen($zerosCounter[0]);
-    
 }
 
 

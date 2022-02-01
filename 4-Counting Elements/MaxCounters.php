@@ -21,7 +21,6 @@ function solution($N, $A) {
             $counters = array_fill(0, $N, $maximo);
 
             print_r($counters);
-
         }
     }
 

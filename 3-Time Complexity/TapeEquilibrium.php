@@ -11,9 +11,8 @@ function solution($A) {
         for ($i=0; $i < $length ; $i++) { 
             $counter += $A[$i];
             $result = min($result, abs(($totalArray - $counter) - $counter));
-            // echo '|| RESULT___ FOR: ' . $result . '  ||';
         }
-        // echo ' ________min:   ' . $result;
+
         return $result;
     }
        

@@ -24,15 +24,10 @@ function solution($A, $K) {
     print_r($A);
     
 }
-
-/* function changeElement(){
-
-} */
 /* $B = [3, 8, 9, 7, 6]; */
 $B = [];
 $C = 15;
 
 solution($B, $C);
-/* solution(28); */
 
 ?>

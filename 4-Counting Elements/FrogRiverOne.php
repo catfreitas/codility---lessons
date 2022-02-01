@@ -3,10 +3,8 @@
 function solution($X, $A) {
 
     //Filtrar o array pelos valores unicos (retirar repetidos) para um novo array
-    
     //Quando o tamanho do novo array torna-se igual ao número de folhas (X), quer dizer que temos as folhas em todas as posições
-    // retorno esse último valores
-
+    // retorno esse último valor
     //caso contrário -1
 
     if((count($A) >= $X) && (count($A) >= 1)){

@@ -16,7 +16,6 @@ function solution($A) {
     }
 
     return 0;
-   
 }
 
 $K = [9, 5, 7, 3, 2, 7, 3, 1, 10, 8];
